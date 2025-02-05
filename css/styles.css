@@ -1,5 +1,5 @@
 body {
-    font-family: "Montserrat, sant-serif";
+    font-family: "Raleway", "Roboto" sant-serif;
     background-color: #fafafa;
     color: #111;
 }
@@ -18,10 +18,18 @@ button {
 
 }
 
-.logo:hover, :focus {
-    color: rgb(196, 17, 40);
+.logo:hover, 
+.log:focus {
+    color: rgb(243, 235, 237);
+}
+.logo-nav-text {
+    color: aqua;
 }
 
+.address-nav-mail:hover, 
+.address-nav:focus {
+    color: rgb(243, 235, 237); 
+}
 
 
 
