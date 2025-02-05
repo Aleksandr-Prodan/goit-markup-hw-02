@@ -1,0 +1,28 @@
+body {
+    font-family: "Montserrat, sant-serif";
+    background-color: #fafafa;
+    color: #111;
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    list-style-type: none;
+}
+button {
+  cursor: pointer;  
+}
+
+.logo {
+    font-style: normal;
+
+}
+
+.logo:hover, :focus {
+    color: rgb(196, 17, 40);
+}
+
+
+
+
+
