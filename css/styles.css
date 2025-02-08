@@ -10,7 +10,7 @@ ul, ol {
     list-style-type: none;
 }
 button {
-  cursor: pointer;  
+    cursor: pointer;  
 }
 .logo {
     font-style: normal;
@@ -50,7 +50,7 @@ button {
     color: #404bbf;
 }
 .page-head {
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 .page-title {
     font-weight: 700;
@@ -67,11 +67,11 @@ button {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background: #4d5ae5;
+    background-color: #4d5ae5;
 }
 .button-link:hover,
 .button-link:focus {
-    background: #404bbf;
+    background-color: #404bbf;
 }
 .page-one-inf {
     font-weight: 500;
@@ -88,7 +88,7 @@ button {
     color: #434455;
 }
 .page-two {
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .page-two-inf {
     font-weight: 700;
@@ -98,6 +98,9 @@ button {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+}
+.page-two-list {
+    background-color: #FFFFFF
 }
 .page-two-user {
     font-weight: 500;
@@ -138,9 +141,8 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
 .footer {
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 .footer-text {
     font-weight: 400;
