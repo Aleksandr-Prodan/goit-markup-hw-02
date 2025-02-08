@@ -69,7 +69,7 @@ button {
 }
 .button-link:hover,
 .button-link:focus {
-    color: #404BBF;
+    background: #404bbf;
 }
 .page-one-inf {
     font-weight: 500;
@@ -92,7 +92,7 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #F4F4FD;
+    background: #f4f4fd;
     text-transform: capitalize;
 }
 .page-two-list {
